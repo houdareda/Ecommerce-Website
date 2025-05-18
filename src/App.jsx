@@ -9,7 +9,7 @@ import ScrollToTop from "./components/ScrollToTop";
 import { AnimatePresence } from "framer-motion";
 import CategoryPage from "./page/CategoryPage/CategoryPage";
 import SearchResults from "./page/SearchResults";
-import Favorites from "./page/Favorites/Favorites";
+import Favorites from "./page/favorites/Favorites"
 
 function App() {
   return (
